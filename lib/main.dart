@@ -20,7 +20,7 @@ class MyApp extends StatelessWidget {
                 IconButton(
                     onPressed: () => {},
                     icon: const Icon(Icons.notifications),
-                    color: Colors.amber),
+                    color: Colors.red),
               ],
             ),
             body: Column(
